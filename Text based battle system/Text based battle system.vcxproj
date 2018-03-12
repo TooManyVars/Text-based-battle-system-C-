@@ -115,6 +115,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Base class.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="Player.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BaseClassBehaviour.cpp" />
+    <ClCompile Include="EnemyBehaviour.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="playerBehaviour.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
