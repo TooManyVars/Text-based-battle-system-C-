@@ -20,13 +20,16 @@ namespace e
 	{
 
 	private:
+		
 		// a randdom string of names for the enemy. i'll add more later.
+		
+		//i should probably justify some of the enemy names.
 		const vector<string> names =
 		{ "Shady Buinessman",
 			"Corrupt politician",
-			"Person who puts pineapple on their pizza",
-			"Corrupt buisnesman called ajit pai",
-			"Symmetra",
+			"Person who puts pineapple on their pizza", //shame on you.
+			"Corrupt buisnesman called ajit pai", //net nuetrality: let's end it there.
+			"Symmetra", //the biggest villan of all.
 			"Deity",
 			"Classy millenial",
 			"Sun Tzu",
@@ -35,12 +38,12 @@ namespace e
 			"An r/dankmemes moderator.",
 			"Johnny dang",
 			"Leftoff",
-			"Kogami kun",
-			"Some girl who left the creator on read",
-			"Amy Rose",
-			"A personification of the dev's adolescent rage",
+			"Kogami", //i'm a sucker for psycho-pass
+			"[Read at: 7:45 pm]", //:salt:
+			"Amy Rose", //sonic character.
+			"A personification of the dev's adolescent confusion", //???
 			"a Placeholder name",
-			"A pig"
+			"A pig" //because why not.
 
 		};
 
